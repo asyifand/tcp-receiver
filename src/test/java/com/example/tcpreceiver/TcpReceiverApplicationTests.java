@@ -1,10 +1,10 @@
-package com.example.tcpserver;
+package com.example.tcpreceiver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TcpServerApplicationTests {
+class TcpReceiverApplicationTests {
 
 	@Test
 	void contextLoads() {
