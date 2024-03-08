@@ -1,4 +1,4 @@
-package com.example.tcpclient;
+package com.example.tcpsender;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
