@@ -6,6 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 public class TcpReceiver implements  Runnable {
+
     private int port;
 
     public TcpReceiver(int port) {
