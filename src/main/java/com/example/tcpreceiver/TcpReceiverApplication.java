@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class TcpReceiverApplication {
-
+//hhvkjbk
     public static void main(String[] args) throws IOException {
         SpringApplication.run(TcpReceiverApplication.class, args);
         new Thread(new TcpReceiver(5678)).start();
